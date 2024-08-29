@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O Grito, de Edvard Munch",
-                afirmacao: "Salvator Mundi, de Leonardo da Vinci,"
+                afirmacao: "Falso. "
             },
             {
                 texto: "Salvator Mundi, de Leonardo da Vinci",
-                afirmacao: "Salvator Mundi, de Leonardo da Vinci,"
+                afirmacao: "Verdadeiro. "
             }          
            
         ]
@@ -24,11 +24,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"Kosovo",
-                afirmacao:"Sudão do Sul,"
+                afirmacao:"Falso. "
             },
             {
                 texto: "Sudão do Sul",
-                afirmacao:"Sudão do Sul,"
+                afirmacao:"Verdadeiro. "
             }
         ]
     },
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:" Kathryn D. Sullivan",
-                afirmacao:"Valentina Tereshkova,"
+                afirmacao:"Falso. "
             },
             {
                 texto:"Valentina Tereshkova",
-                afirmacao:" Valentina Tereshkova,"
+                afirmacao:"Verdadeiro. "
             }
            
         ]
@@ -51,11 +51,11 @@ const perguntas = [
         alternativas: [
             {
                 texto:"  Maurice Herzog e Louis Lachenal",
-                afirmacao:"Edmund Hillary e Tenzing Norgay ,"
+                afirmacao:"Falso. "
             },
             {
                 texto:"Edmund Hillary e Tenzing Norgay",
-                afirmacao:"Edmund Hillary e Tenzing Norgay,"
+                afirmacao:"Verdadeiro. "
             }
            
         ]
@@ -65,11 +65,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Solstício de verão",
-                afirmacao:"Equinócio de primavera."
+                afirmacao:"Verdadeiro. "
             },
             {
                 texto: "Equinócio de primavera",
-                afirmacao:"Solstício de verão"
+                afirmacao:"Falso. "
             }
            
            
